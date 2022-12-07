@@ -1,0 +1,8 @@
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\bin\Debug\iz3_opp.exe.config
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\bin\Debug\iz3_opp.exe
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\bin\Debug\iz3_opp.pdb
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\obj\Debug\iz3_opp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\obj\Debug\iz3_opp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\obj\Debug\iz3_opp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\obj\Debug\iz3_opp.exe
+C:\Users\Acer\Desktop\ОПП\C#\iz3_opp\obj\Debug\iz3_opp.pdb
